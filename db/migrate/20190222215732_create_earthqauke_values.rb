@@ -13,10 +13,10 @@ class CreateEarthqaukeValues < ActiveRecord::Migration[5.2]
       t.string "dmin"
       t.string "rms"
       t.string "net"
-      t.string "data_id"
+      t.string "_id"
       t.string "updated"
       t.string "place"
-      t.string "type"
+      t.string "_type"
       t.string "locationSource"
       t.string "magSource"
       t.string "horizontalError"
@@ -24,6 +24,7 @@ class CreateEarthqaukeValues < ActiveRecord::Migration[5.2]
       t.string "magError"
       t.string "magNst"
       t.string "status"
+      t.string "updated"
       t.timestamps
     end
   end

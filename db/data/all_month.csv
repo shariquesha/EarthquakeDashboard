@@ -1,4 +1,4 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,_id,updated,place,_type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2019-02-22T19:39:27.540Z,62.9945,-150.7273,113.8,2.1,ml,,,,0.54,ak,ak0192fz11p7,2019-02-22T19:53:03.669Z,"81km NNW of Talkeetna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2019-02-22T19:36:21.750Z,36.8911667,-121.6104965,1.7,1.88,md,13,78,0.0163,0.08,nc,nc73144621,2019-02-22T19:39:34.701Z,"3km E of Aromas, CA",earthquake,0.27,0.51,0.26,7,automatic,nc,nc
 2019-02-22T19:28:45.219Z,60.8564,-152.5397,21.8,1.2,ml,,,,0.4,ak,ak0192fyyqm3,2019-02-22T19:36:29.941Z,"42km NNE of Redoubt Volcano, Alaska",earthquake,,1.6,,,automatic,ak,ak
