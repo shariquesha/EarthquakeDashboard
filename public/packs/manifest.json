@@ -1,0 +1,14 @@
+{
+  "dashboard.js": "/packs/js/dashboard-3c833e750d8a2758da89.js",
+  "dashboard.js.map": "/packs/js/dashboard-3c833e750d8a2758da89.js.map",
+  "entrypoints": {
+    "dashboard": {
+      "js": [
+        "/packs/js/dashboard-3c833e750d8a2758da89.js"
+      ],
+      "js.map": [
+        "/packs/js/dashboard-3c833e750d8a2758da89.js.map"
+      ]
+    }
+  }
+}
