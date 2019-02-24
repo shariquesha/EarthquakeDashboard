@@ -3,6 +3,8 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.5.0'
 
+#bootstrap
+gem 'bootstrap', '~> 4.3.1'
 # webpacker for react app
 gem 'webpacker', git: 'https://github.com/rails/webpacker.git'
 # pagination
