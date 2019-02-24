@@ -6,7 +6,7 @@ module Api
       time = Benchmark.measure{ earthquakes }
       render json: { 
         earth_quakes: earthquakes, 
-        count: earthquakes.count, 
+        count: EarthqaukeValue.count, 
         page: page_number, 
         search: false, 
         query_time: (time.total * 1000).round(3)
