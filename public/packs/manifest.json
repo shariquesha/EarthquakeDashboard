@@ -1,13 +1,13 @@
 {
-  "dashboard.js": "/packs/js/dashboard-e568d15387b4a036f001.js",
-  "dashboard.js.map": "/packs/js/dashboard-e568d15387b4a036f001.js.map",
+  "dashboard.js": "/packs/js/dashboard-82890a4e26655db91f07.js",
+  "dashboard.js.map": "/packs/js/dashboard-82890a4e26655db91f07.js.map",
   "entrypoints": {
     "dashboard": {
       "js": [
-        "/packs/js/dashboard-e568d15387b4a036f001.js"
+        "/packs/js/dashboard-82890a4e26655db91f07.js"
       ],
       "js.map": [
-        "/packs/js/dashboard-e568d15387b4a036f001.js.map"
+        "/packs/js/dashboard-82890a4e26655db91f07.js.map"
       ]
     }
   }
