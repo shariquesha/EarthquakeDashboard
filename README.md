@@ -1,2 +1,2 @@
 # Dashboard for earthquakes data
-Made on RubyonRails and ReactJs & Redux
+Made on RubyonRails, ReactJs & Redux
